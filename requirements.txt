@@ -1,0 +1,7 @@
+matplotlib==3.8.2
+Pillow==9.5.0
+soundfile==0.12.1
+tensorflow
+librosa
+numpy
+
